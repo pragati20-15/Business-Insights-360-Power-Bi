@@ -1,4 +1,4 @@
- Showcasing Business Insights 360 Dashboard in Power BI 
+This dashboard integrates Finance, Sales, Marketing, Supply Chain, and Executive perspectives into a single interface.
 1️)Finance View: Provides P&L statements by customer, product, or geography with trend analysis.
 2️)Sales View: Analyzes customer performance across metrics like Net Sales and Gross Margin to understand profitability and growth.
 3️)Marketing View: Evaluates product-level performance, offering insights into sales trends and segment profitability.
